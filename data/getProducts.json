@@ -1,0 +1,40 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "handle": "led-high-tops",
+            "title": "LED High Tops",
+            "description": "Black high top shoes with green LED lights in the sole, tied up with laces and a buckle."
+          }
+        },
+        {
+          "node": {
+            "handle": "striped-skirt-and-top",
+            "title": "Striped Skirt and Top",
+            "description": "Black cotton top with matching striped skirt."
+          }
+        },
+        {
+          "node": {
+            "handle": "olive-green-jacket",
+            "title": "Olive Green Jacket",
+            "description": "Loose fitting olive green jacket with buttons and large pockets. Multicoloured pattern on the front of the shoulders."
+          }
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 5,
+      "actualQueryCost": 5,
+      "throttleStatus": {
+        "maximumAvailable": 1000,
+        "currentlyAvailable": 995,
+        "restoreRate": 50
+      }
+    }
+  }
+}
